@@ -6,10 +6,6 @@
 An interactive data analytics dashboard designed to track, visualize, and analyze Adidas sales performance, profit margins, and distribution channels. This project transforms raw transactional retail data into actionable business intelligence, tracking multi-year performance (2023–2025) across diverse sales methods and regional markets.
 
 ---
-## 🚀 Adidas US Interactive Sales Dashboard
-<img width="1108" height="372" alt="Screenshot 2026-06-18 212556" src="https://github.com/user-attachments/assets/3f47cd71-3c99-4e58-b35f-4c7e8a53eb39" />
-
----
 ## 🚀 Key Features & Visualizations
 
 * **KPI Tracking:** Real-time visibility into overall Units Sold, Total Profit ($85,070), and active market regions.
